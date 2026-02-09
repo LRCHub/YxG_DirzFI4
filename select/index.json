@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Gra Gra",
+  "base_artist": "Tee Shyne",
+  "createdAt": "2026-02-09T17:10:37.026814Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "GRA GRA BOOM (feat. Skread)",
+      "artist": "Gazo feat. Skread",
+      "has_synced": true,
+      "path": "select/01_GRA_GRA_BOOM_(feat._Skread)_Gazo_feat._Skread.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "GRA GRA BOOM",
+      "artist": "Gazo",
+      "has_synced": true,
+      "path": "select/02_GRA_GRA_BOOM_Gazo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "GRA GRA BOOM (feat. Skread)",
+      "artist": "Gazo",
+      "has_synced": true,
+      "path": "select/03_GRA_GRA_BOOM_(feat._Skread)_Gazo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Gra Gra",
+      "artist": "Timaya",
+      "has_synced": true,
+      "path": "select/04_Gra_Gra_Timaya.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gra Gra",
+      "artist": "Shallipopi",
+      "has_synced": true,
+      "path": "select/05_Gra_Gra_Shallipopi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Gra Gra",
+      "artist": "Lagbaja",
+      "has_synced": false,
+      "path": "select/06_Gra_Gra_Lagbaja.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gra Gra",
+      "artist": "Timaya",
+      "has_synced": true,
+      "path": "select/07_Gra_Gra_Timaya.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Gra Gra",
+      "artist": "Lil Morty",
+      "has_synced": true,
+      "path": "select/08_Gra_Gra_Lil_Morty.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Gra Gra",
+      "artist": "LIL MORTY",
+      "has_synced": true,
+      "path": "select/09_Gra_Gra_LIL_MORTY.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "GRA GRA BOOM",
+      "artist": "Gazo feat. Skread",
+      "has_synced": true,
+      "path": "select/10_GRA_GRA_BOOM_Gazo_feat._Skread.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Gra Gra",
+      "artist": "Timaya",
+      "has_synced": true,
+      "path": "select/11_Gra_Gra_Timaya.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "gra gra",
+      "artist": "nafla",
+      "has_synced": false,
+      "path": "select/12_gra_gra_nafla.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Gra Gra Boom",
+      "artist": "Clarent",
+      "has_synced": true,
+      "path": "select/13_Gra_Gra_Boom_Clarent.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "gra gra (feat. Loopy)",
+      "artist": "nafla",
+      "has_synced": false,
+      "path": "select/14_gra_gra_(feat._Loopy)_nafla.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Gra Gra Boom",
+      "artist": "Clarent",
+      "has_synced": false,
+      "path": "select/15_Gra_Gra_Boom_Clarent.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Gra Gra Gra",
+      "artist": "Paula Biskup",
+      "has_synced": true,
+      "path": "select/16_Gra_Gra_Gra_Paula_Biskup.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "@ClarentKP - Gra Gra Boom (Video Oficial)",
+      "artist": "Clarent",
+      "has_synced": false,
+      "path": "select/17_@ClarentKP_-_Gra_Gra_Boom_(Video_Oficial)_Clarent.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "GRA GRA BOOM (feat. Skread)",
+      "artist": "Gazo, Skread",
+      "has_synced": true,
+      "path": "select/18_GRA_GRA_BOOM_(feat._Skread)_Gazo,_Skread.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Gra Gra",
+      "artist": "Tee Shyne",
+      "has_synced": false,
+      "path": "select/pl_01_Gra_Gra_Tee_Shyne.txt"
+    }
+  ]
+}
